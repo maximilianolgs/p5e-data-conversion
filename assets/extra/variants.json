@@ -269,7 +269,6 @@
       { "name" : "Alolan Vulpix", "variant_name" : "Alola" }
     ]
   },
-
   "Ninetales" :
   {
     "create_mode" : "choose",
